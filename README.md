@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Simone 👋
+I work as a Cloud Solutions Specialist @ [AlmavivA](https://www.almaviva.it/en_GB), designing, developing and maintaining cloud-native and cloud-oriented software solutions.
+As a heavy user of OSS, I'm trying to commit more to contributing to various projects and tool that I use everyday, so here I am!
 
 <!--
 **nataz77/nataz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
