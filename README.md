@@ -4,10 +4,10 @@ As a heavy user of OSS, I'm trying to commit more to contributing to various pro
 
 ## 🏢 My daily activities:
 My daily activities often include both software design software development (using mostly languages such as C#, JS/TS), but I also have some SRE-like activities, managing production environment operations consisting mostly of Kubernetes clusters, Azure and AWS services management & more. 
-I've made a [repo](https://github.com/nataz77/awesome-k8s) with a list of all the components, tools and software I use everyday during my SRE-like daily activities and  to build cloud-native microservices architectures.
+I've made a [repo](https://github.com/nataz77/awesome-k8s) with a list of all the components, tools and software I use everyday during my SRE-like daily activities and to build cloud-native microservices architectures.
 
 ## 🌱 I’m currently learning:
-As a heavy Kubernetes, Docker and other CNCF projects (see [repo](https://github.com/nataz77/awesome-k8s)), I'm currently learning how to be more proficient in Go. Also, I' experimenting soe
+As a heavy Kubernetes, Docker and other CNCF projects (see [repo](https://github.com/nataz77/awesome-k8s)), I'm currently learning how to be more proficient in Go.
 
 ## 💬 Ask me about:
 Anything about Kubernetes, .NET Core, Azure, AWS, Docker, Node.js, cloud-native microservices architectures. If you have a other questions feel free to ask and I'll try to answer!
