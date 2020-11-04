@@ -3,7 +3,7 @@ I work as a Cloud Solutions Specialist @ [AlmavivA](https://www.almaviva.it/en_G
 As a heavy user of OSS, I'm trying to commit more to contributing to various projects and tool that I use everyday, so here I am! <br/>
 
 ## 🏢 My daily activities:
-My daily activities often include both software design software development (using mostly languages such as C#, JS/TS), but I also have some SRE-like activities, managing production environment operations consisting mostly of Kubernetes clusters, Azure and AWS services management & more. 
+My daily activities often include both software design and software development (using mostly languages such as C#, JS/TS), but I'm also resposible of some SRE activities, managing production environment operations consisting mostly of Kubernetes clusters, Azure and AWS services management & more. 
 I've made a [repo](https://github.com/nataz77/awesome-k8s) with a list of all the components, tools and software I use everyday during my SRE-like daily activities and to build cloud-native microservices architectures.
 
 ## 🌱 I’m currently learning:
