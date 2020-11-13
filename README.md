@@ -12,6 +12,9 @@ As a heavy Kubernetes, Docker and other CNCF projects (see [repo](https://github
 ## 💬 Ask me about:
 Anything about Kubernetes, .NET Core, Azure, AWS, Docker, Node.js, cloud-native microservices architectures. If you have a other questions feel free to ask and I'll try to answer!
 
+## Most used languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataz77&layout=compact)
+
 ## 📫 How to reach me:
 You can reach me over:
 - [Email](mailto://natalinis@outlook.com)
@@ -31,5 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataz77&layout=compact)
