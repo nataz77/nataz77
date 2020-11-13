@@ -8,6 +8,7 @@ I've made a [repo](https://github.com/nataz77/awesome-k8s) with a list of all th
 
 ## 🌱 I’m currently learning:
 As a heavy Kubernetes, Docker and other CNCF projects (see [repo](https://github.com/nataz77/awesome-k8s)), I'm currently learning how to be more proficient in Go.
+I'm also experimenting and playing around with Tensorflow, I have a couple of Jupyter Notebooks here!
 
 ## 💬 Ask me about:
 Anything about Kubernetes, .NET Core, Azure, AWS, Docker, Node.js, cloud-native microservices architectures. If you have a other questions feel free to ask and I'll try to answer!
