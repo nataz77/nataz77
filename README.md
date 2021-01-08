@@ -7,7 +7,7 @@ My daily activities often include both software design and software development 
 I've made a [repo](https://github.com/nataz77/awesome-k8s) with a list of all the components, tools and software I use everyday during my SRE-like daily activities and to build cloud-native microservices architectures.
 
 ## 🌱 I’m currently learning:
-As a heavy Kubernetes, Docker and other CNCF projects (see [repo](https://github.com/nataz77/awesome-k8s)), I'm currently learning how to be more proficient in Go.
+As a heavy Kubernetes, Docker and other CNCF projects user (see [repo](https://github.com/nataz77/awesome-k8s)), I'm currently learning how to be more proficient in Go.
 I'm also experimenting and playing around with Tensorflow, I have a couple of Jupyter Notebooks here!
 
 ## 💬 Ask me about:
