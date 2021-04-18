@@ -7,31 +7,17 @@ My daily activities often include both software design and software development 
 I've made a [repo](https://github.com/nataz77/awesome-k8s) with a list of all the components, tools and software I use everyday during my SRE-like daily activities and to build cloud-native microservices architectures.
 
 ## 🌱 I’m currently learning:
-As a heavy Kubernetes, Docker and other CNCF projects user (see [repo](https://github.com/nataz77/awesome-k8s)), I'm currently learning how to be more proficient in Go.
-I'm also experimenting and playing around with Tensorflow, I have a couple of Jupyter Notebooks here!
+As a heavy Kubernetes, Docker and other CNCF projects user (see [repo](https://github.com/nataz77/awesome-k8s)), I'm currently learning how to be more proficient in Go and Python.
+I'm also experimenting and playing around with Tensorflow, I have a couple of training Jupyter Notebooks here!
 
 ## 💬 Ask me about:
 Anything about Kubernetes, .NET Core, Azure, AWS, Docker, Node.js, cloud-native microservices architectures. If you have a other questions feel free to ask and I'll try to answer!
+
+## 🌆 Speaker projects:
+I'm also a Community/Conference Speaker! I'm usually involved with the [italian DotNetCode community](https://www.linkedin.com/company/dotnetcode/about/), presenting technical sessions mostly about Kubernetes, microservice-based architectures, .NET Core and DevOps.
 
 ## Most used languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataz77&layout=compact)
 
 ## 📫 How to reach me:
-You can reach me over:
-- [Email](mailto://natalinis@outlook.com)
-- Discord @ snatalini#7731
-
-<!--
-**nataz77/nataz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can [email me!](mailto://natalinis@outlook.com)
