@@ -1,5 +1,5 @@
 # Hi, I'm Simone 👋
-I work as a Cloud Solutions Specialist @ [AlmavivA](https://www.almaviva.it/en_GB), where I design, develop and maintain cloud-native and cloud-oriented software solutions everyday. <br/>
+I work as a Cloud Solutions Specialist @ [AlmavivA](https://github.com/AlmavivA), where I design, develop and maintain cloud-native and cloud-oriented software solutions everyday. <br/>
 As a heavy user of OSS, I'm trying to commit more to contributing to various projects and tool that I use everyday, so here I am! <br/>
 
 ## 🏢 My daily activities:
