@@ -21,3 +21,7 @@ I'm also a Community/Conference Speaker! I'm usually involved with the [italian 
 
 ## 📫 How to reach me:
 You can [email me!](mailto://natalinis@outlook.com)
+
+
+### Bonus! what I'm listening to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1190706498&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1190706498&redirect=true)
