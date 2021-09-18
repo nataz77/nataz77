@@ -1,5 +1,5 @@
 # Hi, I'm Simone 👋
-I work as a Cloud Solutions Specialist within the **Microsoft Digital Services** team @ [AlmavivA](https://github.com/AlmavivA), where I design, develop and maintain cloud-native and cloud-oriented software solutions everyday. <br/>
+I work as a Cloud Solutions Developer within the **Microsoft Digital Services** team @ [AlmavivA](https://github.com/AlmavivA), where I design, develop and maintain cloud-native and cloud-oriented software solutions everyday. <br/>
 As a heavy user of OSS, I'm trying to commit more to contributing to various projects and tool that I use everyday, so here I am! <br/>
 
 ## 🏢 My daily activities:
@@ -22,5 +22,5 @@ I'm also a Community/Conference Speaker! I'm usually involved with the [italian 
 ## 📫 How to reach me:
 You can [email me!](mailto://natalinis@outlook.com)
 
-### Bonus! what I'm listening to:
+### I listen a lot of music, here's what I'm listening now:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1190706498&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1190706498&redirect=true)
