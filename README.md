@@ -1,7 +1,8 @@
 # Hi, I'm Simone! 👋
 
-Hello! I'm Simone, 25 years old, passionate about music and all about technology.
-Here in GitHub I experiment around with different technologies and my personal mission is to help people do and archive more using technology.
+Hello! I'm Simone, 25 years old, passionate about music and all about technology.<br/>
+Here in GitHub I experiment around with different technologies<br/>
+My personal mission is to help people do and archive more using technology.
 One of my goals for the rest of 2022 and in 2023 is to contribute more to OSS, so here I am!
 
 ### Some of my work:
@@ -13,7 +14,7 @@ One of my goals for the rest of 2022 and in 2023 is to contribute more to OSS, s
   
 </div>
 
-### Technologies I really like:
+### Technologies I really like and use everyday:
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -33,7 +34,7 @@ I'm also a Community/Conference Speaker! I'm usually involved with the [italian 
 ## More stuff about me:
 - **How do I reach you?** 📫That's easy! Shoot me an email at [simone@almdev.it](mailto://simone@almdev.it)
 - **Favourite emoji?** The little ghost 👻
-- **Hobbies other than work?** I listen a ton of music, I play my guitar and I like anything that has an engine in it (other than boats).
+- **Hobbies other than work?** I listen a ton of music, I play my guitar and I like anything that has an engine in it (other than boats). I love working on and driving my car, and I'm about to get a motorcycle
 - **Best videogame?** My favourite is [Doom Eternal](https://bethesda.net/en/game/doom), other than that I don't really play that much videogames, mostly because I like action-adventure, survival horror games that don't have a lot of replay value other than 100%ing the game or speedrunning it. In particular, the titles I really like include Control, Quantum Break, the most recent Resident Evil games (7, 8 and the 2 & 3 remakes), both the Outlast games and the most recent Tomb Raider games
 
 ## Now playing:
