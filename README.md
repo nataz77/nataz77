@@ -1,6 +1,6 @@
 # Hi, I'm Simone! 👋
 
-Hello! I'm Simone, 25 years old, passionate about music and all about technology.<br/>
+Hello! I'm Simone, 26 years old, passionate about music and all about technology.<br/>
 Here in GitHub I experiment around with different technologies<br/>
 My personal mission is to help people do and archive more using technology.
 One of my goals for the rest of 2022 and in 2023 is to contribute more to OSS, so here I am!
