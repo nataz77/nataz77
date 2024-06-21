@@ -26,16 +26,13 @@ One of my goals for the rest of 2022 and in 2023 is to contribute more to OSS, s
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ## 💬 Ask me about:
-Anything about Kubernetes, .NET Core, Azure, AWS, Docker, Node.js, cloud-native microservices architectures. If you have a other questions feel free to ask and I'll try to answer!
+Anything about Kubernetes, .NET, Azure, AWS, Docker, Node.js, cloud-native microservices architectures. If you have a other questions feel free to ask and I'll try to answer!
 
 ## 🌆 Speaker projects:
-I'm also a Community/Conference Speaker! I'm usually involved with the [italian DotNetCode community](https://www.linkedin.com/company/dotnetcode/about/), presenting technical sessions mostly about Kubernetes, microservice-based architectures, .NET Core and DevOps.
+I'm also a Community/Conference Speaker! I like presenting technical sessions mostly about Kubernetes, microservice-based architectures, .NET and DevOps.
 
 ## More stuff about me:
 - **How do I reach you?** 📫That's easy! Shoot me an email at [simone@almdev.it](mailto://simone@almdev.it)
 - **Favourite emoji?** The little ghost 👻
 - **Hobbies other than work?** I listen a ton of music, I play my guitar and I like anything that has an engine in it (other than boats). I love working on and driving my car, and I have a magnificent Triumph motorcycle
 
-
-## Now playing:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1190706498&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1190706498&redirect=true)
