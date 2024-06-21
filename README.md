@@ -1,9 +1,8 @@
 # Hi, I'm Simone! 👋
 
-Hello! I'm Simone, 26 years old, passionate about music and all about technology.<br/>
-Here in GitHub I experiment around with different technologies<br/>
-My personal mission is to help people do and archive more using technology.
-One of my goals for the rest of 2022 and in 2023 is to contribute more to OSS, so here I am!
+Hello! I'm Simone, 26 years old, currently a Technical Specialist/Systems Engineer 
+Here in GitHub I experiment around with different technologies.<br/> My personal mission is to help people do and archive more using technology.
+One of my goals for the rest of 2024 is to contribute more to OSS, so here I am! 
 
 ### Some of my work:
 
@@ -34,5 +33,5 @@ I'm also a Community/Conference Speaker! I like presenting technical sessions mo
 ## More stuff about me:
 - **How do I reach you?** 📫That's easy! Shoot me an email at [simone@almdev.it](mailto://simone@almdev.it)
 - **Favourite emoji?** The little ghost 👻
-- **Hobbies other than work?** I listen a ton of music, I play my guitar and I like anything that has an engine in it (other than boats). I love working on and driving my car, and I have a magnificent Triumph motorcycle
+- **Hobbies other than work?** I listen a ton of music, I play my guitar and I like anything that has an engine in it (other than boats). I have a [Triumph motorcycle](https://www.triumphmotorcycles.com/motorcycles/roadsters/trident) that I love to drive around
 
