@@ -2,7 +2,6 @@
 
 Hello! I'm Simone, 27 years old, currently a Technical Specialist/Systems Engineer. <br/>
 Here in GitHub I experiment around with different technologies.<br/> My personal mission is to help people do and archive more using technology.
-One of my goals for the rest of 2024 is to contribute more to OSS, so here I am! 
 
 ### Some of my work:
 
